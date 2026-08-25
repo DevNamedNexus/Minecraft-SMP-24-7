@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "gersonreturned",
+    "username": "Hythos SMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Amazongg.aternos.me",
-    "port": 60538,
+    "ip": "HythosSMP.aternos.me",
+    "port": 20906,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -31,8 +31,7 @@
       "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Just a casual BOT",
         "I like to play Minecraft!"
       ]
     },
@@ -70,7 +69,7 @@
   },
   "beds": {
     "pick-up-day": true,
-    "place-night": true
+    "place-night": false
   },
   "discord": {
     "enabled": false,
